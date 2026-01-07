@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskTitle": "Design Dashboard UI",
+      "taskDescription": "Create responsive dashboard layout",
+      "taskStatus": "Pending",
+      "priority": "High",
+      "dueDate": "2026-01-20"
+    },
+    {
+      "taskTitle": "task",
+      "taskDescription": "curd task",
+      "taskStatus": "in-progress",
+      "priority": "medium",
+      "dueDate": "2026-01-06",
+      "id": 2
+    },
+    {
+      "taskTitle": "react task",
+      "taskDescription": "make free style code ",
+      "taskStatus": "completed",
+      "priority": "high",
+      "dueDate": "12011-11-11",
+      "id": 3
+    },
+    {
+      "taskTitle": "CURD task",
+      "taskDescription": "very helpfull",
+      "taskStatus": "completed",
+      "priority": "medium",
+      "dueDate": "2025-12-23",
+      "id": 4
+    }
+  ]
+}
