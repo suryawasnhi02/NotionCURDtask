@@ -10,7 +10,7 @@
     },
     {
       "taskTitle": "task",
-      "taskDescription": "curd task",
+      "taskDescription": "curdgfasdkgflasiduf",
       "taskStatus": "in-progress",
       "priority": "medium",
       "dueDate": "2026-01-06",
@@ -23,14 +23,6 @@
       "priority": "high",
       "dueDate": "12011-11-11",
       "id": 3
-    },
-    {
-      "taskTitle": "CURD task",
-      "taskDescription": "very helpfull",
-      "taskStatus": "completed",
-      "priority": "medium",
-      "dueDate": "2025-12-23",
-      "id": 4
     }
   ]
 }
